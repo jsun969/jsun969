@@ -1,14 +1,15 @@
 ### Hi there, I am Justin👋
 A self-taught developer from **Shanghai, China**.  
 - 🔭 **Working on web development and programming**
-- 🌱 **Learning**:
+- 🌱 **Learning** :
   - [x] C#
   - [x] Node.js
   - [x] Vue
   - [ ] React
+  - [ ] PHP
   - [ ] Java
   - [ ] Golang
-- 📫 **Reach me**:
+- 📫 **Reach me** :
   - **QQ** : 1351083056
   - **Telegram** : @jsun969
   - **E-mail** : i@jsun969.cn
