@@ -3,7 +3,7 @@ A self-taught developer from **Shanghai, China**.
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="right" src="https://github-readme-stats.vercel.app/api?username=jsun969&show_icons=true&theme=graywhite" />
 </a>
-- 🔭 **Working on web development and programming**
+- 🔭 **Working on web development and software programming**
 - 🌱 **Learning** :
   - [x] C#
   - [x] Node.js
