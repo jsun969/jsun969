@@ -1,5 +1,8 @@
 ### Hi there, I am Justin👋
 A self-taught developer from **Shanghai, China**.  
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="right" src="https://github-readme-stats.vercel.app/api?username=jsun969&show_icons=true&theme=graywhite" />
+</a>
 - 🔭 **Working on web development and programming**
 - 🌱 **Learning** :
   - [x] C#
@@ -14,8 +17,6 @@ A self-taught developer from **Shanghai, China**.
   - **Telegram** : @jsun969
   - **E-mail** : i@jsun969.cn
 - ⚡ **Personal Website** : [jsun969.cn](https://jsun969.cn)  
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jsun969)](https://github.com/anuraghazra/github-readme-stats)  
 
 <!--
 **jsun969/jsun969** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
