@@ -5,10 +5,12 @@ A self-taught developer from **Shanghai, China**.
 </a>
 - 🔭 **Working on web development and software programming**
 - 🌱 **Learning** :
+  - [x] C++
   - [x] C#
   - [x] Node.js
   - [x] Vue
   - [ ] React
+  - [ ] TypeScript
   - [ ] PHP
   - [ ] Java
   - [ ] Golang
