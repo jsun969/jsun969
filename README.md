@@ -6,6 +6,7 @@ A self-taught developer from **Shanghai, China**.
 - 🔭 **Working on web development and software programming**
 - 🌱 **Learning** :
   - [x] C++
+  - [x] Python
   - [x] C#
   - [x] Node.js
   - [x] Vue
