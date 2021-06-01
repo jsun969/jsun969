@@ -10,9 +10,9 @@ A self-taught developer from **Shanghai, China**.
   - [x] C#
   - [x] Node.js
   - [x] Vue
+  - [x] PHP
   - [ ] React
   - [ ] TypeScript
-  - [ ] PHP
   - [ ] Java
   - [ ] Golang
 - 📫 **Reach me** :
