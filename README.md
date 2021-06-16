@@ -1,8 +1,5 @@
 ### Hi there, I am Justin👋
-A self-taught developer from **Shanghai, China**.  
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="right" src="https://github-readme-stats.vercel.app/api?username=jsun969&show_icons=true&theme=graywhite" />
-</a>
+> A self-taught developer from **Shanghai, China**.  
 - 🔭 **Working on web development and software programming**
 - 🌱 **Learning** :
   - [x] C++
@@ -19,8 +16,10 @@ A self-taught developer from **Shanghai, China**.
   - **QQ** : 1351083056
   - **Telegram** : @jsun969
   - **E-mail** : i@jsun969.cn
-- ⚡ **Personal Website** : [jsun969.cn](https://jsun969.cn)  
+- ⚡ **Personal Website** : [jsun969.cn](https://jsun969.cn)
 
+![jsun969's GitHub stats](https://github-readme-stats.vercel.app/api?username=jsun969&show_icons=true&theme=graywhite)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jsun969&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **jsun969/jsun969** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
