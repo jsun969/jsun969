@@ -8,10 +8,10 @@
   - [x] Node.js
   - [x] Vue
   - [x] PHP
+  - [x] Golang
   - [ ] React
   - [ ] TypeScript
   - [ ] Java
-  - [ ] Golang
 - 📫 **Reach me** :
   - **QQ** : 1351083056
   - **Telegram** : @jsun969
