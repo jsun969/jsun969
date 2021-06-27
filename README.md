@@ -9,8 +9,8 @@
   - [x] Vue
   - [x] PHP
   - [x] Golang
+  - [x] Typescript
   - [ ] React
-  - [ ] TypeScript
   - [ ] Java
 - 📫 **Reach me** :
   - **QQ** : 1351083056
