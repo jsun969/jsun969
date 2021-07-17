@@ -14,7 +14,7 @@
   - [x] PHP
   - [x] Golang
   - [x] Typescript
-  - [ ] React
+  - [x] React
   - [ ] Java
 - 📫 **Reach me** :
   - **QQ** : 1351083056
