@@ -20,8 +20,7 @@
   - **QQ** : 1351083056
   - **Telegram** : @jsun969
   - **E-mail** : i@jsun969.cn
-- ⚡ **Personal Website** : [jsun969.cn](https://jsun969.cn)  
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=jsun969&theme=minimal)](https://github.com/ashutosh00710/github-readme-activity-graph)
+- ⚡ **Personal Website** : [jsun969.cn](https://jsun969.cn)
 
 
 <!--
