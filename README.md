@@ -21,7 +21,7 @@
   - **Telegram** : @jsun969
   - **E-mail** : i@jsun969.cn
 - ⚡ **Personal Website** : [jsun969.cn](https://jsun969.cn)
-
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=jsun969&theme=minimal)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <!--
 **jsun969/jsun969** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
