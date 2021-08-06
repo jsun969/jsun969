@@ -15,6 +15,7 @@
   - [x] Golang
   - [x] Typescript
   - [x] React
+  - [ ] Rust
   - [ ] Java
 - 📫 **Reach me** :
   - **QQ** : 1351083056
