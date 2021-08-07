@@ -11,12 +11,12 @@
   - [x] C#
   - [x] Node.js
   - [x] Vue
-  - [x] PHP
   - [x] Golang
   - [x] Typescript
   - [x] React
   - [ ] Rust
   - [ ] Java
+  - [ ] PHP
 - 📫 **Reach me** :
   - **QQ** : 1351083056
   - **Telegram** : @jsun969
