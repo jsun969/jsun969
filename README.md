@@ -15,6 +15,7 @@
   - [x] Typescript
   - [x] React
   - [ ] Rust
+  - [ ] Svelte
   - [ ] Java
   - [ ] PHP
 - 📫 **Reach me** :
