@@ -1,41 +1,28 @@
 ### Hi there, I am Justin👋
-> A self-taught developer from **Shanghai, China**.  
+
+> A self-taught developer from **Shanghai, China**.
+
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="right" src="https://github-readme-stats.vercel.app/api?username=jsun969&show_icons=true&theme=graywhite" />
 </a>
 
 - 🔭 **Working on web development and software programming**
-- 🌱 **Learning** :
-  - [x] C++
-  - [x] Python
-  - [x] C#
-  - [x] Node.js
-  - [x] Vue
-  - [x] Golang
-  - [x] Typescript
-  - [x] React
-  - [ ] Rust
-  - [ ] Svelte
-  - [ ] Java
-  - [ ] PHP
+- 🌱 **Learning** :  
+  ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+  ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+  ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+  ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+  ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
+  ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+  ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+  ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
+  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+  ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
+  ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 - 📫 **Reach me** :
   - **QQ** : 1351083056
-  - **Telegram** : @jsun969
+  - **Wechat** : jsun969
+  - **Telegram** : [@jsun969](https://t.me/jsun969)
   - **E-mail** : i@jsun969.cn
 - ⚡ **Personal Website** : [jsun969.cn](https://jsun969.cn)
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=jsun969&theme=minimal)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-<!--
-**jsun969/jsun969** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=jsun969&theme=minimal)](https://github.com/ashutosh00710/github-readme-activity-graph)
