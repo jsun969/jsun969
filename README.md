@@ -31,9 +31,9 @@
 
 - 📫 **Reach me** :
   - **QQ** : 1351083056
-  - **Wechat** : jsun969
+  - **WeChat** : jsun969
   - **Telegram** : [@jsun969](https://t.me/jsun969)
   - **E-mail** : i@jsun969.cn
-  - **Didcord** : jsun969#1144
+  - **Discord** : jsun969#1144
 - ⚡ **Personal Website** : [jsun969.cn](https://jsun969.cn)
   [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=jsun969&theme=minimal)](https://github.com/ashutosh00710/github-readme-activity-graph)
