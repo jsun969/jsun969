@@ -1,12 +1,12 @@
-### Hi there, I am Justin👋
+### Hi there, I am Justin Sun👋
 
-> A self-taught developer from **Shanghai, China**.
+> A junior developer from **Shanghai, China**.
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="right" src="https://github-readme-stats.vercel.app/api?username=jsun969&show_icons=true&theme=graywhite" />
 </a>
 
-- 🔭 **Working on web development and software programming**
+- 🔭 **Working on web  and software**
 - 🌱 **Learning** :  
   ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
   ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
@@ -36,5 +36,5 @@
   - **Telegram** : [@jsun969](https://t.me/jsun969)
   - **E-mail** : i@jsun969.cn
   - **Discord** : jsun969#1144
-- ⚡ **Personal Website** : [jsun969.cn](https://jsun969.cn)
+- ⚡ **Blog** : [jsun969.cn](https://jsun969.cn)
   [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=jsun969&theme=minimal)](https://github.com/ashutosh00710/github-readme-activity-graph)
