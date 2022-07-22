@@ -11,6 +11,6 @@
   <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white"/>
 </code>
 
-### 💬 Discord : jsun969#1144
+### 💬 Discord: `jsun969#1144`
 
 <img  src="https://github-readme-stats.vercel.app/api?username=jsun969&show_icons=true&theme=graywhite" />
