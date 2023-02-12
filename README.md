@@ -1,4 +1,4 @@
-## Hi there, I am `Justin Sun / 荆棘` 👋
+## Hi there, I am `Justin Sun / 孙烨阳 / 荆棘` 👋
 
 > A frontend developer from **Shanghai, China**.
 
