@@ -1,4 +1,4 @@
-## Hi there, I am `Justin Sun / 孙烨阳` 👋
+## Hi there, I am `Justin Sun` 👋
 
 > A web developer studying in **Adelaide, Australia**.
 
