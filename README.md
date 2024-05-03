@@ -1,6 +1,6 @@
 ## Hi there, I am `Justin Sun / 孙烨阳` 👋
 
-> A web developer from **Shanghai, China**. Studying in **Adelaide, Australia**.
+> A web developer studying in **Adelaide, Australia**.
 
 ### 🏗️ Using
 
