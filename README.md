@@ -1,6 +1,6 @@
 ## Hi there, I am `Justin Sun` 👋
 
-> A web developer studying in **Adelaide, Australia**.
+> I'm a passionate **Web Developer** studying **Mathematical and Computer Sciences** at the University of Adelaide.
 
 ### 🏗️ Using
 
