@@ -2,5 +2,5 @@
 
 - 📍 `Shanghai 🇨🇳` &#x21CC; `Adelaide 🇦🇺`
 - 🏫 `Bachelor of Mathematical and Computer Sciences` @ `Adelaide University`
-- 💻 `TypeScript` `C++` `Python`
+- 💻 `TypeScript 📘` `C++ ⚙️` `Python 🐍`
 - 💼 `ByteDance 🎶` `Zolplay 🇿`
